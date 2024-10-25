@@ -1,5 +1,5 @@
 # Cristopher Rondon Añaños
-### Software Engineer | Full Stack Developer | Mobile Developer
+### Ingeniero de Software | Desarrollador Full Stack | Desarrollador Móvil
 
 <div align="center">
 
@@ -8,20 +8,19 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mí
+Estudiante de último año de Ingeniería de Software, apasionado por crear experiencias de usuario fluidas en múltiples plataformas. Especializado en desarrollo full-stack con un fuerte enfoque en aplicaciones móviles. Disfruto enfrentando problemas complejos y convirtiéndolos en soluciones simples y elegantes.
 
-Software Engineer student in my final year, passionate about creating seamless user experiences across multiple platforms. Specialized in full-stack development with a strong focus on mobile applications. I enjoy tackling complex problems and turning them into simple and beautiful solutions.
+## 🎓 Educación
 
-## 🎓 Education
-
-**Bachelor of Software Engineering** *(Expected 2025-1)*  
+**Ingeniería de Software** *(Esperado 2025-1)*  
 [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/)
-- Current Semester: 9th
-- Relevant Coursework: Software Architecture, Mobile Development, Cloud Computing, Distributed Systems
+- Ciclo Actual: 9no
+- Cursos Relevantes: Arquitectura de Software, Desarrollo Móvil, Computación en la Nube, Sistemas Distribuidos
 
-## 🛠️ Technical Skills
+## 🛠️ Habilidades técnicas 
 
-### Programming Languages
+### Lenguajes de Programación y Consulta
 ```
 📝 Frontend      ⭐️⭐️⭐️⭐️⭐️ JavaScript, Dart
 📱 Mobile        ⭐️⭐️⭐️⭐️⭐️ Flutter
@@ -29,7 +28,7 @@ Software Engineer student in my final year, passionate about creating seamless u
 🗄️ Database      ⭐️⭐️⭐    SQL, NoSQL
 ```
 
-### Frameworks & Technologies
+### Frameworks & Tecnologías
 
 <div align="center">
 
@@ -42,7 +41,7 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 </div>
 
-### Expertise Areas
+### Áreas de Especialización
 - 📱 Cross-platform Mobile Development
 - 🎨 Responsive Web Design
 - 🔧 RESTful API Design
@@ -50,32 +49,30 @@ Software Engineer student in my final year, passionate about creating seamless u
 - 🔄 CI/CD Implementation
 - 📊 Database Design
 
-## 💼 Projects
+## 💼 Projectos
 
 ### 📱 Cross-Platform E-commerce App
-*Flutter, Spring Boot, PostgreSQL*
-- Developed a full-stack e-commerce about an Spa-Commerce solution with Flutter for mobile clients
-- Designed scalable backend architecture using microservices
-- Achieved 98% crash-free sessions
+*Flutter, Spring Boot, MongoDB*
+- Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
+- Diseño de arquitectura backend escalable usando microservicios
+- 98% de sesiones libres de errores
 ```
 🔗 https://github.com/Cris200399/spaFrontEndFlutter
 ```
 
-## 🌍 Languages
+## 🌍 Idiomas
+- Español: Nativo
+- Inglés: Intermedio-Avanzado
+  - Documentación técnica
+  - Comunicación profesional
+  - Colaboración en equipos internacionales
 
-- Spanish: Native
-- English: Intermediate-Advanced
-  - Technical documentation
-  - Professional communication
-  - International team collaboration
-
-## 💡 Interests
-
-- Mobile App Development
-- UI/UX Design
-- Cloud Architecture
-- Open Source Contributing
-- Tech Community Building
+## 💡 Interéses
+- Desarrollo de Aplicaciones Móviles
+- Diseño UI/UX
+- Arquitectura en la Nube
+- Contribución a Código Abierto
+- Construcción de Comunidades Tecnológicas
 
 ## 📈 GitHub Stats
 
