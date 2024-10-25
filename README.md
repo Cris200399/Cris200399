@@ -58,7 +58,7 @@ Software Engineer student in my final year, passionate about creating seamless u
 - Designed scalable backend architecture using microservices
 - Achieved 98% crash-free sessions
 ```
-🔗 [https://github.com/Cris200399/spaFrontEndFlutter]
+🔗 https://github.com/Cris200399/spaFrontEndFlutter
 ```
 
 ## 🌍 Languages
