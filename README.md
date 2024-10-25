@@ -14,8 +14,8 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 ## 🎓 Education
 
-**Bachelor of Software Engineering** *(Expected 2024)*  
-Universidad [Your University]
+**Bachelor of Software Engineering** *(Expected 2025-1)*  
+Universidad [Universidad Peruana de Ciencias Aplicadas]
 - Current Semester: 9th
 - Relevant Coursework: Software Architecture, Mobile Development, Cloud Computing, Distributed Systems
 
