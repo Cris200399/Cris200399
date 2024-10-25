@@ -58,7 +58,7 @@ Software Engineer student in my final year, passionate about creating seamless u
 - Designed scalable backend architecture using microservices
 - Achieved 98% crash-free sessions
 ```
-🔗 [[GitHub Repo](https://github.com/Cris200399/spaFrontEndFlutter)]
+🔗 [https://github.com/Cris200399/spaFrontEndFlutter]
 ```
 
 ## 🌍 Languages
@@ -81,7 +81,7 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris200399&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris200399&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris200399&layout=compact&theme=radical)](https://github.com/your-username)
 
