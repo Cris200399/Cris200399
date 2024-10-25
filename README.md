@@ -35,10 +35,10 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 | Frontend | Backend | Mobile | Tools & DevOps |
 |----------|---------|---------|----------------|
-| React.js | Spring Boot | Flutter | Git |
-| Vue.js | .NET Core | React Native | Docker |
-| Angular | Node.js | Android SDK | Jenkins |
-| Next.js | Express.js | iOS Development | AWS/Azure |
+| Vue.js   | Spring Boot | Flutter | Git |
+| Angular  | .NET Core | Android SDK| Docker |
+|          | Node.js |              | AWS/Azure|
+|          | Express.js |          |          |
 
 </div>
 
@@ -54,32 +54,11 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 ### 📱 Cross-Platform E-commerce App
 *Flutter, Spring Boot, PostgreSQL*
-- Developed a full-stack e-commerce solution with Flutter for mobile clients
-- Implemented secure payment gateway integration
+- Developed a full-stack e-commerce about an Spa-Commerce solution with Flutter for mobile clients
 - Designed scalable backend architecture using microservices
 - Achieved 98% crash-free sessions
 ```
-🔗 [GitHub Repo] | 🌐 [Live Demo]
-```
-
-### 🌐 Full Stack Web Application
-*React.js, Spring Boot, MongoDB*
-- Created a responsive web application with real-time updates
-- Implemented JWT authentication and role-based access control
-- Integrated with third-party APIs for enhanced functionality
-- Deployed using Docker containers
-```
-🔗 [GitHub Repo] | 🌐 [Live Demo]
-```
-
-### 📊 RESTful API Service
-*.NET Core, SQL Server, Swagger*
-- Designed and implemented a RESTful API following best practices
-- Created comprehensive API documentation using Swagger/OpenAPI
-- Implemented caching strategies for improved performance
-- Set up automated testing with 90%+ coverage
-```
-🔗 [GitHub Repo] | 📚 [Documentation]
+🔗 [[GitHub Repo](https://github.com/Cris200399/spaFrontEndFlutter)]
 ```
 
 ## 🌍 Languages
@@ -89,13 +68,6 @@ Software Engineer student in my final year, passionate about creating seamless u
   - Technical documentation
   - Professional communication
   - International team collaboration
-
-## 📜 Certifications
-
-- AWS Certified Developer - Associate
-- Microsoft Certified: Azure Developer Associate
-- Flutter Development Bootcamp
-- Spring Boot Master Class
 
 ## 💡 Interests
 
@@ -109,9 +81,9 @@ Software Engineer student in my final year, passionate about creating seamless u
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris200399&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris200399&layout=compact&theme=radical)](https://github.com/your-username)
 
 </div>
 
