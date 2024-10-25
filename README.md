@@ -24,9 +24,9 @@ Software Engineer student in my final year, passionate about creating seamless u
 ### Programming Languages
 ```
 📝 Frontend      ⭐️⭐️⭐️⭐️⭐️ JavaScript, Dart
-📱 Mobile        ⭐️⭐️⭐️⭐️⭐️ Flutter, React Native
+📱 Mobile        ⭐️⭐️⭐️⭐️⭐️ Flutter
 🔧 Backend       ⭐️⭐️⭐️⭐️⭐️ Python, Java, C++
-🗄️ Database      ⭐️⭐️⭐️⭐️   SQL, NoSQL
+🗄️ Database      ⭐️⭐️⭐    SQL, NoSQL
 ```
 
 ### Frameworks & Technologies
