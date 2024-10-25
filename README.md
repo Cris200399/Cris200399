@@ -5,7 +5,8 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:cristopher_jra@outlook.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristopher_jra@outlook.com)
+![Outlook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png)
 
 </div>
 
