@@ -55,15 +55,11 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 *Flutter, Spring Boot, MongoDB, MySql, ExpressJs*
 - Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
 - Backend desarrollado con ExpressJs
-```
-🔗 [(https://github.com/Cris200399/spaFrontEndFlutter)]
 
-🔗 https://github.com/Cris200399/spaBackEndExpress
-🔗 https://github.com/Cris200399/grocery_app
-🔗 https://github.com/Cris200399/backend-grocery-app
-
-
-```
+🔗 [.](https://github.com/Cris200399/spaFrontEndFlutter)
+🔗 [.](https://github.com/Cris200399/spaBackEndExpress)
+🔗 [.](https://github.com/Cris200399/grocery_app)
+🔗 [.](https://github.com/Cris200399/backend-grocery-app)
 
 ## 🌍 Idiomas
 - Español: Nativo
