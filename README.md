@@ -56,11 +56,13 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 - Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
 - Backend desarrollado con ExpressJs
 
-🔗 [](https://github.com/Cris200399/spaFrontEndFlutter)
+🔗 [App Sobre un Spa con Flutter](https://github.com/Cris200399/spaFrontEndFlutter)
 
-🔗 [.](https://github.com/Cris200399/spaBackEndExpress)
-🔗 [.](https://github.com/Cris200399/grocery_app)
-🔗 [.](https://github.com/Cris200399/backend-grocery-app)
+🔗 [Backend con ExpressJs para la aplicación del Spa](https://github.com/Cris200399/spaBackEndExpress)
+
+🔗 [App sobre una Grocery Store con Flutter](https://github.com/Cris200399/grocery_app)
+
+🔗 [Backend con ExpressJs para la Grocery Store](https://github.com/Cris200399/backend-grocery-app)
 
 ## 🌍 Idiomas
 - Español: Nativo
