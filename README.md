@@ -52,12 +52,16 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 ## 💼 Projectos
 
 ### 📱 Cross-Platform E-commerce App
-*Flutter, Spring Boot, MongoDB*
+*Flutter, Spring Boot, MongoDB, MySql, ExpressJs*
 - Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
-- Diseño de arquitectura backend escalable usando microservicios
-- 98% de sesiones libres de errores
+- Backend desarrollado con ExpressJs
 ```
 🔗 https://github.com/Cris200399/spaFrontEndFlutter
+🔗 https://github.com/Cris200399/spaBackEndExpress
+🔗 https://github.com/Cris200399/grocery_app
+🔗 https://github.com/Cris200399/backend-grocery-app
+
+
 ```
 
 ## 🌍 Idiomas
@@ -69,10 +73,11 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 
 ## 💡 Interéses
 - Desarrollo de Aplicaciones Móviles
-- Diseño UI/UX
 - Arquitectura en la Nube
 - Contribución a Código Abierto
 - Construcción de Comunidades Tecnológicas
+
+---
 
 ## 📈 GitHub Stats
 
@@ -82,10 +87,4 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris200399&layout=compact&theme=radical)](https://github.com/your-username)
 
-</div>
-
----
-<div align="center">
-    <p>🚀 Open to opportunities and collaborations!</p>
-    <p>💼 Available for Full-time positions and Freelance projects</p>
 </div>
