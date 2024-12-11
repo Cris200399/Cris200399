@@ -9,14 +9,15 @@
 </div>
 
 ## 👨‍💻 Sobre Mí
-Estudiante de último año de Ingeniería de Software, apasionado por crear experiencias de usuario fluidas en múltiples plataformas. Especializado en desarrollo full-stack con un fuerte enfoque en aplicaciones móviles. Disfruto enfrentando problemas complejos y convirtiéndolos en soluciones simples y elegantes.
+Estudiante de último año de Ingeniería de Software, apasionado por crear experiencias de usuario fluidas en múltiples plataformas. Especializado en desarrollo full-stack con un fuerte enfoque en aplicaciones móviles. Disfruto enfrentando problemas complejos y convirtiéndolos en soluciones simples, eficientes y visualmente atractias.
 
 ## 🎓 Educación
 
 **Ingeniería de Software** *(Esperado 2025-1)*  
 [Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/)
+
 - Ciclo Actual: 9no
-- Cursos Relevantes: Arquitectura de Software, Desarrollo Móvil, Computación en la Nube, Sistemas Distribuidos
+- Cursos Relevantes: Arquitectura de Software, Desarrollo Móvil, Computación en la Nube
 
 ## 🛠️ Habilidades técnicas 
 
@@ -42,6 +43,7 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 </div>
 
 ### Áreas de Especialización
+
 - 📱 Cross-platform Mobile Development
 - 🎨 Responsive Web Design
 - 🔧 RESTful API Design
@@ -52,7 +54,9 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 ## 💼 Projectos
 
 ### 📱 Cross-Platform E-commerce App
+
 *Flutter, Spring Boot, MongoDB, MySql, ExpressJs*
+
 - Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
 - Backend desarrollado con ExpressJs
 
@@ -65,6 +69,7 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 🔗 [Backend con ExpressJs para la Grocery Store](https://github.com/Cris200399/backend-grocery-app)
 
 ## 🌍 Idiomas
+
 - Español: Nativo
 - Inglés: Intermedio-Avanzado
   - Documentación técnica
@@ -72,6 +77,7 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
   - Colaboración en equipos internacionales
 
 ## 💡 Interéses
+
 - Desarrollo de Aplicaciones Móviles
 - Arquitectura en la Nube
 - Contribución a Código Abierto
@@ -79,6 +85,10 @@ Estudiante de último año de Ingeniería de Software, apasionado por crear expe
 
 ---
 
+## Certificados
+- [Machine Learning with TensorFlow on Google Cloud en Español](https://coursera.org/share/c365491ab56ec0cfcd5109657de68d0a)
+- [IBM Cybersecurity Analyst](https://coursera.org/share/f28a71951934c8c2d2d6fd29f5b9bc97)
+- [Analíticas de Marketing Digital](https://coursera.org/share/38d5475d692422a6737296bf5fe3cd1f)
 ## 📈 GitHub Stats
 
 <div align="center">
