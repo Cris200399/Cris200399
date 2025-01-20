@@ -1,100 +1,72 @@
 # Cristopher Rondon Añaños
-### Ingeniero de Software | Desarrollador Full Stack | Desarrollador Móvil
+**Software Engineering Student & Full Stack Developer**  
+Lima, Peru  
+cristopher_jra@outlook.com | +51 945730684 | [LinkedIn](https://www.linkedin.com/in/cristopher-rondon-a%C3%B1a%C3%B1os-a20110276/)
 
-<div align="center">
+## EDUCATION
+**Bachelor of Software Engineering**  
+Universidad Peruana de Ciencias Aplicadas (UPC) - Lima, Peru  
+Expected Graduation: December 2025  
+- Advanced coursework in software development and project management
+- Focus on web technologies, mobile technologies and software architecture
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Cris200399)
-[![Email](https://img.shields.io/badge/-Email-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](mailto:cristopher_jra@outlook.com)
+## TECHNICAL SKILLS
+- **Frontend**: HTML, CSS, JavaScript, Vue.js (Advanced), React (Basic)
+- **Backend**: Node.js (Advanced), Spring Boot (Intermediate), .NET (Intermediate)
+- **Mobile Development**: Flutter (Advanced), Dart (Advanced)
+- **Programming Languages**: C++ (Advanced), Python (Advanced), Java (Intermediate), C# (Intermediate)
+- **Version Control**: Git, GitFlow
+- **Languages**: Spanish (Native), English (Upper Intermediate)
 
-</div>
+## PROJECTS
+**School Dance Management Web Application** | *Current*
+- Developing a comprehensive web platform for dance school administration
+- Implementing frontend with Vue.js and backend with Node.js
+- Managing user authentication, scheduling, and payment processing
 
-## 👨‍💻 Sobre Mí
-Estudiante de último año de Ingeniería de Software, apasionado por crear experiencias de usuario fluidas en múltiples plataformas. Especializado en desarrollo full-stack con un fuerte enfoque en aplicaciones móviles. Disfruto enfrentando problemas complejos y convirtiéndolos en soluciones simples, eficientes y visualmente atractias.
+**Real Estate Rental Platform with Cryptocurrency Integration** | *University Project*
+- Led the development of a web application for real estate rentals using cryptocurrency payments
+- Implemented smart contract integration and secure payment processing
+- Utilized React.js for frontend and SpringBoot for backend services
 
-## 🎓 Educación
+**AR-Enhanced Spa Treatment Booking App** | *Personal Project*
+- Developed a mobile application using Flutter and AR technology
+- Implemented augmented reality features for treatment preview
+- Created an intuitive booking system with real-time availability
 
-**Ingeniería de Software** *(Esperado 2025-1)*  
-[Universidad Peruana de Ciencias Aplicadas](https://www.upc.edu.pe/)
+**Smart Agriculture Support System** | *University Project*
+- Built a web application to assist hobby gardeners with plant care
+- Implemented plant monitoring and maintenance scheduling features
+- Utilized Angular and Spring Boot for full-stack development
 
-- Ciclo Actual: 9no
-- Cursos Relevantes: Arquitectura de Software, Desarrollo Móvil, Computación en la Nube
+## PROFESSIONAL EXPERIENCE
+**Data Analysis Intern** | *[RAALY CONSULTORES E.I.R.L]* | *[19/08/2024 - 01/11/2024]*
+- Conducted data analysis and reporting using Python and SQL
+- Collaborated with cross-functional teams to identify business insights
+- Developed automated reporting solutions to improve efficiency
 
-## 🛠️ Habilidades técnicas 
+## ADDITIONAL SKILLS
+- **Project Management**: Formal training in project management methodologies
+- **Team Leadership**: Led multiple university and personal project teams
+- **Problem Solving**: Strong analytical and debugging skills
+- **Agile Methodologies**: Experience with Scrum and Kanban
+- **Communication**: Excellent written and verbal communication skills in Spanish and English
 
-### Lenguajes de Programación y Consulta
-```
-📝 Frontend      ⭐️⭐️⭐️⭐️⭐️ JavaScript, Dart
-📱 Mobile        ⭐️⭐️⭐️⭐️⭐️ Flutter
-🔧 Backend       ⭐️⭐️⭐️⭐️⭐️ Python, Java, C++
-🗄️ Database      ⭐️⭐️⭐    SQL, NoSQL
-```
+## CERTIFICATIONS & ACHIEVEMENTS
+[Analytics on Digital Marketing](https://coursera.org/share/38d5475d692422a6737296bf5fe3cd1f)
 
-### Frameworks & Tecnologías
+[IBM Cybersecurity Analyst](https://coursera.org/share/b92d020f8d87f40364c6515a6289f71a)
 
-<div align="center">
+[Incident Response and Digital Forensics](https://coursera.org/share/3dd97d76f18b7581ef0990b5cb962bf8)
 
-| Frontend | Backend | Mobile | Tools & DevOps |
-|----------|---------|---------|----------------|
-| Vue.js   | Spring Boot | Flutter | Git |
-| Angular  | .NET Core | Android SDK| Docker |
-|          | Node.js |              | AWS/Azure|
-|          | Express.js |          |          |
+[Operating Systems: Overview, Administration, and Security](https://coursera.org/share/71ef3ac9655d420ce5e73261da313f95)
 
-</div>
+[Penetration Testing, Threat Hunting, and Cryptography](https://coursera.org/share/4fd4d982610b31cc5adf8c0b04686093)
 
-### Áreas de Especialización
+[Machine Learning with TensorFlow on Google Cloud en Español](https://coursera.org/share/c365491ab56ec0cfcd5109657de68d0a)
 
-- 📱 Cross-platform Mobile Development
-- 🎨 Responsive Web Design
-- 🔧 RESTful API Design
-- 📐 Microservices Architecture
-- 🔄 CI/CD Implementation
-- 📊 Database Design
-
-## 💼 Projectos
-
-### 📱 Cross-Platform E-commerce App
-
-*Flutter, Spring Boot, MongoDB, MySql, ExpressJs*
-
-- Desarrollo de una solución e-commerce completa para Spa con Flutter para clientes móviles
-- Backend desarrollado con ExpressJs
-
-🔗 [App Sobre un Spa con Flutter](https://github.com/Cris200399/spaFrontEndFlutter)
-
-🔗 [Backend con ExpressJs para la aplicación del Spa](https://github.com/Cris200399/spaBackEndExpress)
-
-🔗 [App sobre una Grocery Store con Flutter](https://github.com/Cris200399/grocery_app)
-
-🔗 [Backend con ExpressJs para la Grocery Store](https://github.com/Cris200399/backend-grocery-app)
-
-## 🌍 Idiomas
-
-- Español: Nativo
-- Inglés: Intermedio-Avanzado
-  - Documentación técnica
-  - Comunicación profesional
-  - Colaboración en equipos internacionales
-
-## 💡 Interéses
-
-- Desarrollo de Aplicaciones Móviles
-- Arquitectura en la Nube
-- Contribución a Código Abierto
-- Construcción de Comunidades Tecnológicas
-
----
-
-## Certificados
-- [Machine Learning with TensorFlow on Google Cloud en Español](https://coursera.org/share/c365491ab56ec0cfcd5109657de68d0a)
-- [IBM Cybersecurity Analyst](https://coursera.org/share/f28a71951934c8c2d2d6fd29f5b9bc97)
-- [Analíticas de Marketing Digital](https://coursera.org/share/38d5475d692422a6737296bf5fe3cd1f)
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cris200399&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris200399&layout=compact&theme=radical)](https://github.com/your-username)
-
-</div>
+## INTERESTS
+- Web Development
+- Mobile Application Development
+- Emerging Technologies
+- Open Source Contribution
